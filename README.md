@@ -1,4 +1,4 @@
-// ### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **Dhruv-Kapoor-1202/Dhruv-Kapoor-1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +27,7 @@ I like making websites (sometimes maybe music).
 ![](https://github-readme-stats.vercel.app/api?username=Dhruv-Kapoor-1202&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-Kapoor-1202&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Kapoor-1202&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Dhruv-Kapoor-1202&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
@@ -36,6 +36,6 @@ I like making websites (sometimes maybe music).
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhruv-Kapoor-1202&icon=0&color=8)](https://visitcount.itsvg.in)
